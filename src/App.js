@@ -1,4 +1,4 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 
 import './App.css'
 import ColorComp from './components/color'
